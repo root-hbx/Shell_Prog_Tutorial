@@ -8,3 +8,11 @@
 
 - Others
 - - are the .sh/.cpp materials of 《Shell脚本编程》
+
+**References**
+- [Mac开发环境配置](https://sourabhbajaj.com/mac-setup/)
+- [Linux运维讲义_USTC](https://101.lug.ustc.edu.cn/)
+- [CS615系统运维学习](https://stevens.netmeister.org/615/)
+- [ShellScript](https://www.shellscript.sh/)
+- [awesome-macos-command-line](https://git.herrbischoff.com/awesome-macos-command-line/about/)  
+- [awesome-command-line-apps](https://git.herrbischoff.com/awesome-command-line-apps/about/)
