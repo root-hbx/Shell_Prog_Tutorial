@@ -18,4 +18,4 @@
 - [awesome-command-line-apps](https://git.herrbischoff.com/awesome-command-line-apps/about/)
 
 **Strongly Recommended**
-[一个图形化解释shell语句的网站](https://explainshell.com/)
+- [一个图形化解释shell语句的网站](https://explainshell.com/)
