@@ -16,3 +16,6 @@
 - [ShellScript](https://www.shellscript.sh/)
 - [awesome-macos-command-line](https://git.herrbischoff.com/awesome-macos-command-line/about/)  
 - [awesome-command-line-apps](https://git.herrbischoff.com/awesome-command-line-apps/about/)
+
+**Strongly Recommended**
+[一个图形化解释shell语句的网站](https://explainshell.com/)
